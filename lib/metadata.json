@@ -1,0 +1,1930 @@
+{
+  "vaultName": "DnD",
+  "lastExport": 1729203517865,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Beastiary/Abilities/A father to his men.md",
+    "Beastiary/Abilities/Abilities.md",
+    "Beastiary/Abilities/And I shall endure.md",
+    "Beastiary/Abilities/Ashes to Ashes.md",
+    "Beastiary/Abilities/Aspect of the artisan.md",
+    "Beastiary/Abilities/Aspect of the hierophant.md",
+    "Beastiary/Abilities/Aspect of the Slayer.md",
+    "Beastiary/Abilities/Beastial might.md",
+    "Beastiary/Abilities/Beastial Speed.md",
+    "Beastiary/Abilities/Bigger they are.md",
+    "Beastiary/Abilities/Blessed foraging.md",
+    "Beastiary/Abilities/Blessed husbandry.md",
+    "Beastiary/Abilities/Blessings of the forge.md",
+    "Beastiary/Abilities/Boon.md",
+    "Beastiary/Abilities/Cavalry.md",
+    "Beastiary/Abilities/Cleansing fire.md",
+    "Beastiary/Abilities/Combat.md",
+    "Beastiary/Abilities/Common Leadership.md",
+    "Beastiary/Abilities/Dwarven Armor Training.md",
+    "Beastiary/Abilities/Dwarven Combat training.md",
+    "Beastiary/Abilities/Dwarven resistance.md",
+    "Beastiary/Abilities/Endurance.md",
+    "Beastiary/Abilities/Every lie is a truth.md",
+    "Beastiary/Abilities/Every truth is a lie.md",
+    "Beastiary/Abilities/Fertilising the field.md",
+    "Beastiary/Abilities/Focus Down.md",
+    "Beastiary/Abilities/Gathering.md",
+    "Beastiary/Abilities/Harder they fall.md",
+    "Beastiary/Abilities/Hooves.md",
+    "Beastiary/Abilities/I shall stand against them.md",
+    "Beastiary/Abilities/Keen Hearing and Smell.md",
+    "Beastiary/Abilities/Last rites.md",
+    "Beastiary/Abilities/Leadership.md",
+    "Beastiary/Abilities/Lesser Leadership.md",
+    "Beastiary/Abilities/Magic.md",
+    "Beastiary/Abilities/Multi Attack.md",
+    "Beastiary/Abilities/Of Artifice and  artistry.md",
+    "Beastiary/Abilities/Pack tactics.md",
+    "Beastiary/Abilities/Parry.md",
+    "Beastiary/Abilities/Passive.md",
+    "Beastiary/Abilities/Pounce.md",
+    "Beastiary/Abilities/Rage.md",
+    "Beastiary/Abilities/Rally.md",
+    "Beastiary/Abilities/Resolute.md",
+    "Beastiary/Abilities/Spell Turning.md",
+    "Beastiary/Abilities/Sunlight Sensitivity.md",
+    "Beastiary/Abilities/The art of the siege breaker.md",
+    "Beastiary/Abilities/The weakest link.md",
+    "Beastiary/Abilities/the wild hunt.md",
+    "Beastiary/Abilities/Trample.md",
+    "Beastiary/Abilities/Undead Fortitude.md",
+    "Beastiary/Abilities/Unless you know what your doing.md",
+    "Beastiary/Abilities/Vampiric Drain.md",
+    "Beastiary/Abilities/Vampiric Regeneration.md",
+    "Beastiary/Abilities/War call.md",
+    "Beastiary/Abilities/You don't interfere with death.md",
+    "Beastiary/Bandit/Bandit.md",
+    "Beastiary/Bandit/Bandit barricade.md",
+    "Beastiary/Bandit/Bandit Boss.md",
+    "Beastiary/Bandit/Bandit Captain.md",
+    "Beastiary/Bandit/Bandit Fodder.md",
+    "Beastiary/Bandit/Bandit Footman.md",
+    "Beastiary/Bandit/Bandit Footman Sergeant.md",
+    "Beastiary/Bandit/Bandit Hound.md",
+    "Beastiary/Bandit/Bandit mini-boss.md",
+    "Beastiary/Bandit/Bandit pack master.md",
+    "Beastiary/Bandit/Bandit Rider.md",
+    "Beastiary/Bandit/Bandit Rider Sergeant.md",
+    "Beastiary/Bandit/Bandit sharpshooter.md",
+    "Beastiary/Bandit/Bandit Specialist.md",
+    "Beastiary/Bandit/Bandit Squad leader.md",
+    "Beastiary/Bandit/Bandit unique.md",
+    "Beastiary/Bandit/Bandit warlord.md",
+    "Beastiary/Bandit/Ulf Blackthorne.md",
+    "Beastiary/Barbaric/Barbaric.md",
+    "Beastiary/Barbaric/Barbaric Boss.md",
+    "Beastiary/Barbaric/Barbaric mini-boss.md",
+    "Beastiary/Barbaric/Barbaric Specialist.md",
+    "Beastiary/Barbaric/Barbaric Squad Leader.md",
+    "Beastiary/Barbaric/barbaric unique.md",
+    "Beastiary/Barbaric/Foresworn.md",
+    "Beastiary/Barbaric/Foresworn Archer.md",
+    "Beastiary/Barbaric/Foresworn briar heart.md",
+    "Beastiary/Barbaric/Foresworn shieldmadien.md",
+    "Beastiary/Civilised/Civilised.md",
+    "Beastiary/Civilised/Civilised Boss.md",
+    "Beastiary/Civilised/Civilised Fodder.md",
+    "Beastiary/Civilised/Civilised Mini-Boss.md",
+    "Beastiary/Civilised/Civilised Specialist.md",
+    "Beastiary/Civilised/Civilised Squad Leader.md",
+    "Beastiary/Civilised/Civilised Unique.md",
+    "Beastiary/Civilised/Guard.md",
+    "Beastiary/Civilised/guard captain.md",
+    "Beastiary/Civilised/Guard hound.md",
+    "Beastiary/Civilised/Guard sergeant.md",
+    "Beastiary/Civilised/The Cursed giant.md",
+    "Beastiary/CR/CR.md",
+    "Beastiary/CR/CR 1.md",
+    "Beastiary/CR/CR 1-2.md",
+    "Beastiary/CR/CR 1-4.md",
+    "Beastiary/CR/CR 1-8.md",
+    "Beastiary/CR/CR 2.md",
+    "Beastiary/CR/CR 3.md",
+    "Beastiary/CR/CR 30.md",
+    "Beastiary/Ganger/Salvage union/Salvage union.md",
+    "Beastiary/Ganger/Salvage union/Scab.md",
+    "Beastiary/Ganger/Salvage union/Team leader.md",
+    "Beastiary/Ganger/Salvage union/Work Boss.md",
+    "Beastiary/Ganger/Ganger.md",
+    "Beastiary/Ganger/Ganger Fodder.md",
+    "Beastiary/Ganger/Ganger Squad leader.md",
+    "Beastiary/Others/Others.md",
+    "Beastiary/Others/the Other of lust.md",
+    "Beastiary/Undead/Lesser Drauger.md",
+    "Beastiary/Undead/Undead.md",
+    "Beastiary/Undead/Zombie Villager.md",
+    "Beastiary/Vampire/Crimson court agent.md",
+    "Beastiary/Vampire/Ghoul kitty.md",
+    "Beastiary/Vampire/Lesser Vampire sorcerer.md",
+    "Beastiary/Vampire/Scout.md",
+    "Beastiary/Vampire/Vampire.md",
+    "Beastiary/Vampire/Vampire Fodder.md",
+    "Beastiary/Vampire/Vampire kitten.md",
+    "Beastiary/Vampire/Vampiric Mountain Lion.md",
+    "Beastiary/Vampire/Whelp.md",
+    "Beastiary/Weapons/Weapon Key words/Ammunition.md",
+    "Beastiary/Weapons/Weapon Key words/Crude.md",
+    "Beastiary/Weapons/Weapon Key words/Finesse.md",
+    "Beastiary/Weapons/Weapon Key words/Heavy.md",
+    "Beastiary/Weapons/Weapon Key words/Lance.md",
+    "Beastiary/Weapons/Weapon Key words/Light.md",
+    "Beastiary/Weapons/Weapon Key words/Loading.md",
+    "Beastiary/Weapons/Weapon Key words/Martial.md",
+    "Beastiary/Weapons/Weapon Key words/Ranged.md",
+    "Beastiary/Weapons/Weapon Key words/Silvered.md",
+    "Beastiary/Weapons/Weapon Key words/Thrown.md",
+    "Beastiary/Weapons/Weapon Key words/Two-Handed.md",
+    "Beastiary/Weapons/Weapon Key words/Versatile.md",
+    "Beastiary/Weapons/Ancient Longbow.md",
+    "Beastiary/Weapons/Ancient Longsword.md",
+    "Beastiary/Weapons/Battle axe.md",
+    "Beastiary/Weapons/Bite.md",
+    "Beastiary/Weapons/Claw.md",
+    "Beastiary/Weapons/Crude Tools.md",
+    "Beastiary/Weapons/Light Crossbow.md",
+    "Beastiary/Weapons/Scimitar.md",
+    "Beastiary/Weapons/Spear.md",
+    "Beastiary/Weapons/Weapons.md",
+    "Beastiary/Bestiary.md",
+    "Beastiary/Boss.md",
+    "Beastiary/Fodder.md",
+    "Beastiary/Mini-Boss.md",
+    "Beastiary/Specialist.md",
+    "Beastiary/Squad leader.md",
+    "Beastiary/Unique.md",
+    "Rules/Biome data/Forgeable/Forgeable.md",
+    "Rules/Biome data/Forgeable/Wild Garlic.md",
+    "Rules/Biome data/Ash marsh.md",
+    "Rules/Biome data/Ash wastes.md",
+    "Rules/Biome data/Biome data.md",
+    "Rules/Biome data/Forest.md",
+    "Rules/Biome data/Subterrain.md",
+    "Rules/Biome data/Tundra.md",
+    "Rules/Buildings, rooms and hirelings/Buildings/Armoury.md",
+    "Rules/Buildings, rooms and hirelings/Buildings/Buildings.md",
+    "Rules/Buildings, rooms and hirelings/Buildings/Keep.md",
+    "Rules/Buildings, rooms and hirelings/Buildings/Slots.md",
+    "Rules/Buildings, rooms and hirelings/Defences/Defences.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Animal pen.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Armoury (facility).md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Brewery.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Facilities.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Hall.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Kitchen.md",
+    "Rules/Buildings, rooms and hirelings/Facilities/Well.md",
+    "Rules/Buildings, rooms and hirelings/Hirelings/Hirelings.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Enormous room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Huge Room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Large room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Medium room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Room sizes.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Small Room.md",
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Tiny Room.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Site Features/Site features.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Castle.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Fort.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Fortress.md",
+    "Rules/Buildings, rooms and hirelings/Sites/Sites.md",
+    "Rules/Buildings, rooms and hirelings/Buildings and player owned settlements.md",
+    "Rules/Buildings, rooms and hirelings/Taxes.md",
+    "Rules/Crafting/Artisan tools/Brewing.md",
+    "Rules/Crafting/Artisan tools/Cooking.md",
+    "Rules/Crafting/Artisan tools/Masonry.md",
+    "Rules/Crafting/Artisan tools/Smithing.md",
+    "Rules/Crafting/Gathering/Digging.md",
+    "Rules/Crafting/Gathering/Foraging.md",
+    "Rules/Crafting/Gathering/Mining.md",
+    "Rules/Crafting/Gathering/Wood cutting.md",
+    "Rules/Crafting/Crafting.md",
+    "Rules/Factions/States/Distrusted.md",
+    "Rules/Factions/States/Favoured.md",
+    "Rules/Factions/States/Kill on site.md",
+    "Rules/Factions/States/Loved.md",
+    "Rules/Factions/States/Outsider.md",
+    "Rules/Factions/States/Respected.md",
+    "Rules/Factions/States/States.md",
+    "Rules/Factions/States/trusted.md",
+    "Rules/Factions/States/Unwelcome.md",
+    "Rules/Factions/States/Vilified.md",
+    "Rules/Factions/Factions.md",
+    "Rules/Loot and trading/Looting.md",
+    "Rules/Loot and trading/Trading.md",
+    "Rules/POI's/Cairn.md",
+    "Rules/POI's/POI's.md",
+    "Rules/Camping.md",
+    "Rules/Combat.md",
+    "Rules/Degrees of success.md",
+    "Rules/Dissociate skills.md",
+    "Rules/Exhaustion.md",
+    "Rules/Generic money.md",
+    "Rules/Insomnia.md",
+    "Rules/Rolling for magic and magic perils.md",
+    "Rules/Rules.md",
+    "Index.md",
+    "lib/media/oig2.jpg",
+    "lib/media/oig2.qxfur84zmp6jbt.jpg",
+    "lib/media/oig4.gqizytvyxqbzmmq0t.jpg",
+    "lib/media/the-guards.jpg",
+    "lib/media/the-captain.jpg",
+    "lib/media/the-hounds.jpg",
+    "lib/media/the-guard-leader.jpg",
+    "lib/media/the-giant.jpg",
+    "lib/media/oig.jpg",
+    "lib/media/oig.asnzt26vsuvntrr.jpg",
+    "lib/media/the-scout.jpg",
+    "lib/media/oig.ewpjtz9u.jpg",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Beastiary/Abilities/A father to his men.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 204,
+      "exportedPath": "beastiary/abilities/a-father-to-his-men.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Abilities.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 140,
+      "exportedPath": "beastiary/abilities/abilities.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/And I shall endure.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 184,
+      "exportedPath": "beastiary/abilities/and-i-shall-endure.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Ashes to Ashes.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 201,
+      "exportedPath": "beastiary/abilities/ashes-to-ashes.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Aspect of the artisan.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 193,
+      "exportedPath": "beastiary/abilities/aspect-of-the-artisan.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Aspect of the hierophant.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 189,
+      "exportedPath": "beastiary/abilities/aspect-of-the-hierophant.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Aspect of the Slayer.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 264,
+      "exportedPath": "beastiary/abilities/aspect-of-the-slayer.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Beastial might.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 217,
+      "exportedPath": "beastiary/abilities/beastial-might.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Beastial Speed.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 218,
+      "exportedPath": "beastiary/abilities/beastial-speed.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Bigger they are.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 68,
+      "exportedPath": "beastiary/abilities/bigger-they-are.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Blessed foraging.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 197,
+      "exportedPath": "beastiary/abilities/blessed-foraging.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Blessed husbandry.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 200,
+      "exportedPath": "beastiary/abilities/blessed-husbandry.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Blessings of the forge.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 57,
+      "exportedPath": "beastiary/abilities/blessings-of-the-forge.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Boon.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 46,
+      "exportedPath": "beastiary/abilities/boon.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Cavalry.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 169,
+      "exportedPath": "beastiary/abilities/cavalry.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Cleansing fire.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 217,
+      "exportedPath": "beastiary/abilities/cleansing-fire.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Combat.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 63,
+      "exportedPath": "beastiary/abilities/combat.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Common Leadership.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 510,
+      "exportedPath": "beastiary/abilities/common-leadership.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Dwarven Armor Training.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 56,
+      "exportedPath": "beastiary/abilities/dwarven-armor-training.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Dwarven Combat training.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 107,
+      "exportedPath": "beastiary/abilities/dwarven-combat-training.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Dwarven resistance.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 125,
+      "exportedPath": "beastiary/abilities/dwarven-resistance.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Endurance.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 155,
+      "exportedPath": "beastiary/abilities/endurance.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Every lie is a truth.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 19,
+      "exportedPath": "beastiary/abilities/every-lie-is-a-truth.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Every truth is a lie.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 19,
+      "exportedPath": "beastiary/abilities/every-truth-is-a-lie.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Fertilising the field.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 212,
+      "exportedPath": "beastiary/abilities/fertilising-the-field.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Focus Down.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 359,
+      "exportedPath": "beastiary/abilities/focus-down.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Gathering.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 67,
+      "exportedPath": "beastiary/abilities/gathering.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Harder they fall.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 19,
+      "exportedPath": "beastiary/abilities/harder-they-fall.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Hooves.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 168,
+      "exportedPath": "beastiary/abilities/hooves.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/I shall stand against them.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 183,
+      "exportedPath": "beastiary/abilities/i-shall-stand-against-them.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Keen Hearing and Smell.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 87,
+      "exportedPath": "beastiary/abilities/keen-hearing-and-smell.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Last rites.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 162,
+      "exportedPath": "beastiary/abilities/last-rites.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Leadership.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 69,
+      "exportedPath": "beastiary/abilities/leadership.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Lesser Leadership.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 488,
+      "exportedPath": "beastiary/abilities/lesser-leadership.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Magic.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 62,
+      "exportedPath": "beastiary/abilities/magic.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Multi Attack.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 175,
+      "exportedPath": "beastiary/abilities/multi-attack.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Of Artifice and  artistry.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 55,
+      "exportedPath": "beastiary/abilities/of-artifice-and-artistry.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Pack tactics.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 278,
+      "exportedPath": "beastiary/abilities/pack-tactics.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Parry.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 244,
+      "exportedPath": "beastiary/abilities/parry.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Passive.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 64,
+      "exportedPath": "beastiary/abilities/passive.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Pounce.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 284,
+      "exportedPath": "beastiary/abilities/pounce.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Rage.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 183,
+      "exportedPath": "beastiary/abilities/rage.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Rally.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 268,
+      "exportedPath": "beastiary/abilities/rally.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Resolute.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 169,
+      "exportedPath": "beastiary/abilities/resolute.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Spell Turning.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 344,
+      "exportedPath": "beastiary/abilities/spell-turning.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Sunlight Sensitivity.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 197,
+      "exportedPath": "beastiary/abilities/sunlight-sensitivity.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/The art of the siege breaker.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 129,
+      "exportedPath": "beastiary/abilities/the-art-of-the-siege-breaker.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/The weakest link.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 143,
+      "exportedPath": "beastiary/abilities/the-weakest-link.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/the wild hunt.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 172,
+      "exportedPath": "beastiary/abilities/the-wild-hunt.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Trample.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 288,
+      "exportedPath": "beastiary/abilities/trample.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Undead Fortitude.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 298,
+      "exportedPath": "beastiary/abilities/undead-fortitude.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Unless you know what your doing.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 134,
+      "exportedPath": "beastiary/abilities/unless-you-know-what-your-doing.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Vampiric Drain.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 304,
+      "exportedPath": "beastiary/abilities/vampiric-drain.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/Vampiric Regeneration.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 98,
+      "exportedPath": "beastiary/abilities/vampiric-regeneration.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/War call.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 242,
+      "exportedPath": "beastiary/abilities/war-call.html",
+      "dependencies": []
+    },
+    "Beastiary/Abilities/You don't interfere with death.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 151,
+      "exportedPath": "beastiary/abilities/you-don't-interfere-with-death.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 570,
+      "exportedPath": "beastiary/bandit/bandit.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit barricade.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 456,
+      "exportedPath": "beastiary/bandit/bandit-barricade.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Boss.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 55,
+      "exportedPath": "beastiary/bandit/bandit-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Captain.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 619,
+      "exportedPath": "beastiary/bandit/bandit-captain.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Fodder.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 59,
+      "exportedPath": "beastiary/bandit/bandit-fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Footman.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 699,
+      "exportedPath": "beastiary/bandit/bandit-footman.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Footman Sergeant.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 497,
+      "exportedPath": "beastiary/bandit/bandit-footman-sergeant.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Hound.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 736,
+      "exportedPath": "beastiary/bandit/bandit-hound.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit mini-boss.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 45,
+      "exportedPath": "beastiary/bandit/bandit-mini-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit pack master.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 882,
+      "exportedPath": "beastiary/bandit/bandit-pack-master.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Rider.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 984,
+      "exportedPath": "beastiary/bandit/bandit-rider.html",
+      "dependencies": [
+        "lib/media/oig2.jpg"
+      ]
+    },
+    "Beastiary/Bandit/Bandit Rider Sergeant.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 901,
+      "exportedPath": "beastiary/bandit/bandit-rider-sergeant.html",
+      "dependencies": [
+        "lib/media/oig2.qxfur84zmp6jbt.jpg"
+      ]
+    },
+    "Beastiary/Bandit/Bandit sharpshooter.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 374,
+      "exportedPath": "beastiary/bandit/bandit-sharpshooter.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Specialist.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 64,
+      "exportedPath": "beastiary/bandit/bandit-specialist.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit Squad leader.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 65,
+      "exportedPath": "beastiary/bandit/bandit-squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit unique.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 59,
+      "exportedPath": "beastiary/bandit/bandit-unique.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Bandit warlord.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 575,
+      "exportedPath": "beastiary/bandit/bandit-warlord.html",
+      "dependencies": []
+    },
+    "Beastiary/Bandit/Ulf Blackthorne.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 596,
+      "exportedPath": "beastiary/bandit/ulf-blackthorne.html",
+      "dependencies": [
+        "lib/media/oig4.gqizytvyxqbzmmq0t.jpg"
+      ]
+    },
+    "Beastiary/Barbaric/Barbaric.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 523,
+      "exportedPath": "beastiary/barbaric/barbaric.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Barbaric Boss.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Barbaric mini-boss.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-mini-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Barbaric Specialist.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-specialist.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Barbaric Squad Leader.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/barbaric unique.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "beastiary/barbaric/barbaric-unique.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Foresworn.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 537,
+      "exportedPath": "beastiary/barbaric/foresworn.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Foresworn Archer.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 631,
+      "exportedPath": "beastiary/barbaric/foresworn-archer.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Foresworn briar heart.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 425,
+      "exportedPath": "beastiary/barbaric/foresworn-briar-heart.html",
+      "dependencies": []
+    },
+    "Beastiary/Barbaric/Foresworn shieldmadien.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 431,
+      "exportedPath": "beastiary/barbaric/foresworn-shieldmadien.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 537,
+      "exportedPath": "beastiary/civilised/civilised.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Boss.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 11,
+      "exportedPath": "beastiary/civilised/civilised-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Fodder.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 57,
+      "exportedPath": "beastiary/civilised/civilised-fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Mini-Boss.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 11,
+      "exportedPath": "beastiary/civilised/civilised-mini-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Specialist.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 11,
+      "exportedPath": "beastiary/civilised/civilised-specialist.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Squad Leader.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 63,
+      "exportedPath": "beastiary/civilised/civilised-squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Civilised Unique.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 57,
+      "exportedPath": "beastiary/civilised/civilised-unique.html",
+      "dependencies": []
+    },
+    "Beastiary/Civilised/Guard.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 609,
+      "exportedPath": "beastiary/civilised/guard.html",
+      "dependencies": [
+        "lib/media/the-guards.jpg"
+      ]
+    },
+    "Beastiary/Civilised/guard captain.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 613,
+      "exportedPath": "beastiary/civilised/guard-captain.html",
+      "dependencies": [
+        "lib/media/the-captain.jpg"
+      ]
+    },
+    "Beastiary/Civilised/Guard hound.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 605,
+      "exportedPath": "beastiary/civilised/guard-hound.html",
+      "dependencies": [
+        "lib/media/the-hounds.jpg"
+      ]
+    },
+    "Beastiary/Civilised/Guard sergeant.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 621,
+      "exportedPath": "beastiary/civilised/guard-sergeant.html",
+      "dependencies": [
+        "lib/media/the-guard-leader.jpg"
+      ]
+    },
+    "Beastiary/Civilised/The Cursed giant.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 416,
+      "exportedPath": "beastiary/civilised/the-cursed-giant.html",
+      "dependencies": [
+        "lib/media/the-giant.jpg"
+      ]
+    },
+    "Beastiary/CR/CR.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 209,
+      "exportedPath": "beastiary/cr/cr.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 1.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 41,
+      "exportedPath": "beastiary/cr/cr-1.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 1-2.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 44,
+      "exportedPath": "beastiary/cr/cr-1-2.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 1-4.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 44,
+      "exportedPath": "beastiary/cr/cr-1-4.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 1-8.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 45,
+      "exportedPath": "beastiary/cr/cr-1-8.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 2.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 35,
+      "exportedPath": "beastiary/cr/cr-2.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 3.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 35,
+      "exportedPath": "beastiary/cr/cr-3.html",
+      "dependencies": []
+    },
+    "Beastiary/CR/CR 30.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 35,
+      "exportedPath": "beastiary/cr/cr-30.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Salvage union/Salvage union.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 546,
+      "exportedPath": "beastiary/ganger/salvage-union/salvage-union.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Salvage union/Scab.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 661,
+      "exportedPath": "beastiary/ganger/salvage-union/scab.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Salvage union/Team leader.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 665,
+      "exportedPath": "beastiary/ganger/salvage-union/team-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Salvage union/Work Boss.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 658,
+      "exportedPath": "beastiary/ganger/salvage-union/work-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Ganger.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 482,
+      "exportedPath": "beastiary/ganger/ganger.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Ganger Fodder.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 50,
+      "exportedPath": "beastiary/ganger/ganger-fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Ganger/Ganger Squad leader.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 55,
+      "exportedPath": "beastiary/ganger/ganger-squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Others/Others.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 477,
+      "exportedPath": "beastiary/others/others.html",
+      "dependencies": []
+    },
+    "Beastiary/Others/the Other of lust.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 600,
+      "exportedPath": "beastiary/others/the-other-of-lust.html",
+      "dependencies": [
+        "lib/media/oig.jpg"
+      ]
+    },
+    "Beastiary/Undead/Lesser Drauger.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 859,
+      "exportedPath": "beastiary/undead/lesser-drauger.html",
+      "dependencies": []
+    },
+    "Beastiary/Undead/Undead.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 58,
+      "exportedPath": "beastiary/undead/undead.html",
+      "dependencies": []
+    },
+    "Beastiary/Undead/Zombie Villager.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 751,
+      "exportedPath": "beastiary/undead/zombie-villager.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Crimson court agent.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 626,
+      "exportedPath": "beastiary/vampire/crimson-court-agent.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Ghoul kitty.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 610,
+      "exportedPath": "beastiary/vampire/ghoul-kitty.html",
+      "dependencies": [
+        "lib/media/oig.asnzt26vsuvntrr.jpg"
+      ]
+    },
+    "Beastiary/Vampire/Lesser Vampire sorcerer.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 626,
+      "exportedPath": "beastiary/vampire/lesser-vampire-sorcerer.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Scout.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 429,
+      "exportedPath": "beastiary/vampire/scout.html",
+      "dependencies": [
+        "lib/media/the-scout.jpg"
+      ]
+    },
+    "Beastiary/Vampire/Vampire.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 573,
+      "exportedPath": "beastiary/vampire/vampire.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Vampire Fodder.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 43,
+      "exportedPath": "beastiary/vampire/vampire-fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Vampire kitten.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 628,
+      "exportedPath": "beastiary/vampire/vampire-kitten.html",
+      "dependencies": []
+    },
+    "Beastiary/Vampire/Vampiric Mountain Lion.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 625,
+      "exportedPath": "beastiary/vampire/vampiric-mountain-lion.html",
+      "dependencies": [
+        "lib/media/oig.ewpjtz9u.jpg"
+      ]
+    },
+    "Beastiary/Vampire/Whelp.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 425,
+      "exportedPath": "beastiary/vampire/whelp.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Ammunition.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 440,
+      "exportedPath": "beastiary/weapons/weapon-key-words/ammunition.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Crude.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 80,
+      "exportedPath": "beastiary/weapons/weapon-key-words/crude.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Finesse.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 219,
+      "exportedPath": "beastiary/weapons/weapon-key-words/finesse.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Heavy.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 197,
+      "exportedPath": "beastiary/weapons/weapon-key-words/heavy.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Lance.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 191,
+      "exportedPath": "beastiary/weapons/weapon-key-words/lance.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Light.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 135,
+      "exportedPath": "beastiary/weapons/weapon-key-words/light.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Loading.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 224,
+      "exportedPath": "beastiary/weapons/weapon-key-words/loading.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Martial.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 75,
+      "exportedPath": "beastiary/weapons/weapon-key-words/martial.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Ranged.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 433,
+      "exportedPath": "beastiary/weapons/weapon-key-words/ranged.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Silvered.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 470,
+      "exportedPath": "beastiary/weapons/weapon-key-words/silvered.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Thrown.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 280,
+      "exportedPath": "beastiary/weapons/weapon-key-words/thrown.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Two-Handed.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 67,
+      "exportedPath": "beastiary/weapons/weapon-key-words/two-handed.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapon Key words/Versatile.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 213,
+      "exportedPath": "beastiary/weapons/weapon-key-words/versatile.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Ancient Longbow.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 253,
+      "exportedPath": "beastiary/weapons/ancient-longbow.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Ancient Longsword.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 198,
+      "exportedPath": "beastiary/weapons/ancient-longsword.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Battle axe.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 259,
+      "exportedPath": "beastiary/weapons/battle-axe.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Bite.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 124,
+      "exportedPath": "beastiary/weapons/bite.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Claw.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 129,
+      "exportedPath": "beastiary/weapons/claw.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Crude Tools.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 244,
+      "exportedPath": "beastiary/weapons/crude-tools.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Light Crossbow.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 307,
+      "exportedPath": "beastiary/weapons/light-crossbow.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Scimitar.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 211,
+      "exportedPath": "beastiary/weapons/scimitar.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Spear.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 226,
+      "exportedPath": "beastiary/weapons/spear.html",
+      "dependencies": []
+    },
+    "Beastiary/Weapons/Weapons.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 155,
+      "exportedPath": "beastiary/weapons/weapons.html",
+      "dependencies": []
+    },
+    "Beastiary/Bestiary.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 560,
+      "exportedPath": "beastiary/bestiary.html",
+      "dependencies": []
+    },
+    "Beastiary/Boss.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 49,
+      "exportedPath": "beastiary/boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Fodder.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 52,
+      "exportedPath": "beastiary/fodder.html",
+      "dependencies": []
+    },
+    "Beastiary/Mini-Boss.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 55,
+      "exportedPath": "beastiary/mini-boss.html",
+      "dependencies": []
+    },
+    "Beastiary/Specialist.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 56,
+      "exportedPath": "beastiary/specialist.html",
+      "dependencies": []
+    },
+    "Beastiary/Squad leader.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 58,
+      "exportedPath": "beastiary/squad-leader.html",
+      "dependencies": []
+    },
+    "Beastiary/Unique.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 52,
+      "exportedPath": "beastiary/unique.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Forgeable/Forgeable.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 105,
+      "exportedPath": "rules/biome-data/forgeable/forgeable.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Forgeable/Wild Garlic.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 185,
+      "exportedPath": "rules/biome-data/forgeable/wild-garlic.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Ash marsh.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 1474,
+      "exportedPath": "rules/biome-data/ash-marsh.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Ash wastes.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 1077,
+      "exportedPath": "rules/biome-data/ash-wastes.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Biome data.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 125,
+      "exportedPath": "rules/biome-data/biome-data.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Forest.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 1864,
+      "exportedPath": "rules/biome-data/forest.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Subterrain.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 1078,
+      "exportedPath": "rules/biome-data/subterrain.html",
+      "dependencies": []
+    },
+    "Rules/Biome data/Tundra.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/biome-data/tundra.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings/Armoury.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 253,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings/armoury.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings/Buildings.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 151,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings/buildings.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings/Keep.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 309,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings/keep.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings/Slots.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 180,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings/slots.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Defences/Defences.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/defences/defences.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Animal pen.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 280,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/animal-pen.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Armoury (facility).md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 214,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/armoury-(facility).html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Brewery.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 403,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/brewery.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Facilities.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 119,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/facilities.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Hall.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 976,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/hall.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Kitchen.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 231,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/kitchen.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Facilities/Well.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 346,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/facilities/well.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Hirelings/Hirelings.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 97,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/hirelings/hirelings.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Enormous room.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/enormous-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Huge Room.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/huge-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Large room.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/large-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Medium room.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 266,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/medium-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Room sizes.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 139,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/room-sizes.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Small Room.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 285,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/small-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Rooms sizes/Tiny Room.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 73,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/rooms-sizes/tiny-room.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Site Features/Site features.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 289,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/site-features/site-features.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Castle.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 124,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/castle.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Fort.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 104,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/fort.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Fortress.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 90,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/fortress.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Sites/Sites.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 52,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/sites/sites.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Buildings and player owned settlements.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 393,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/buildings-and-player-owned-settlements.html",
+      "dependencies": []
+    },
+    "Rules/Buildings, rooms and hirelings/Taxes.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/buildings,-rooms-and-hirelings/taxes.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Brewing.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 1025,
+      "exportedPath": "rules/crafting/artisan-tools/brewing.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Cooking.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 505,
+      "exportedPath": "rules/crafting/artisan-tools/cooking.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Masonry.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/crafting/artisan-tools/masonry.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Artisan tools/Smithing.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/crafting/artisan-tools/smithing.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Gathering/Digging.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 11,
+      "exportedPath": "rules/crafting/gathering/digging.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Gathering/Foraging.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 1528,
+      "exportedPath": "rules/crafting/gathering/foraging.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Gathering/Mining.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 11,
+      "exportedPath": "rules/crafting/gathering/mining.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Gathering/Wood cutting.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 12,
+      "exportedPath": "rules/crafting/gathering/wood-cutting.html",
+      "dependencies": []
+    },
+    "Rules/Crafting/Crafting.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 192,
+      "exportedPath": "rules/crafting/crafting.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/Distrusted.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/distrusted.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/Favoured.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/favoured.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/Kill on site.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/kill-on-site.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/Loved.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/loved.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/Outsider.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/outsider.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/Respected.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/respected.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/States.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 169,
+      "exportedPath": "rules/factions/states/states.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/trusted.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/trusted.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/Unwelcome.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/unwelcome.html",
+      "dependencies": []
+    },
+    "Rules/Factions/States/Vilified.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/factions/states/vilified.html",
+      "dependencies": []
+    },
+    "Rules/Factions/Factions.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 11,
+      "exportedPath": "rules/factions/factions.html",
+      "dependencies": []
+    },
+    "Rules/Loot and trading/Looting.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/loot-and-trading/looting.html",
+      "dependencies": []
+    },
+    "Rules/Loot and trading/Trading.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/loot-and-trading/trading.html",
+      "dependencies": []
+    },
+    "Rules/POI's/Cairn.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 127,
+      "exportedPath": "rules/poi's/cairn.html",
+      "dependencies": []
+    },
+    "Rules/POI's/POI's.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 118,
+      "exportedPath": "rules/poi's/poi's.html",
+      "dependencies": []
+    },
+    "Rules/Camping.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 142,
+      "exportedPath": "rules/camping.html",
+      "dependencies": []
+    },
+    "Rules/Combat.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 438,
+      "exportedPath": "rules/combat.html",
+      "dependencies": []
+    },
+    "Rules/Degrees of success.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 53,
+      "exportedPath": "rules/degrees-of-success.html",
+      "dependencies": []
+    },
+    "Rules/Dissociate skills.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 860,
+      "exportedPath": "rules/dissociate-skills.html",
+      "dependencies": []
+    },
+    "Rules/Exhaustion.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 0,
+      "exportedPath": "rules/exhaustion.html",
+      "dependencies": []
+    },
+    "Rules/Generic money.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 208,
+      "exportedPath": "rules/generic-money.html",
+      "dependencies": []
+    },
+    "Rules/Insomnia.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 200,
+      "exportedPath": "rules/insomnia.html",
+      "dependencies": []
+    },
+    "Rules/Rolling for magic and magic perils.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 282,
+      "exportedPath": "rules/rolling-for-magic-and-magic-perils.html",
+      "dependencies": []
+    },
+    "Rules/Rules.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 297,
+      "exportedPath": "rules/rules.html",
+      "dependencies": []
+    },
+    "Index.md": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 135,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/media/oig2.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 146935,
+      "exportedPath": "lib/media/oig2.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig2.qxfur84zmp6jbt.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 140083,
+      "exportedPath": "lib/media/oig2.qxfur84zmp6jbt.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig4.gqizytvyxqbzmmq0t.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 153761,
+      "exportedPath": "lib/media/oig4.gqizytvyxqbzmmq0t.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-guards.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 175691,
+      "exportedPath": "lib/media/the-guards.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-captain.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 180870,
+      "exportedPath": "lib/media/the-captain.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-hounds.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 208994,
+      "exportedPath": "lib/media/the-hounds.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-guard-leader.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 147726,
+      "exportedPath": "lib/media/the-guard-leader.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-giant.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 191944,
+      "exportedPath": "lib/media/the-giant.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 196570,
+      "exportedPath": "lib/media/oig.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig.asnzt26vsuvntrr.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 166805,
+      "exportedPath": "lib/media/oig.asnzt26vsuvntrr.jpg",
+      "dependencies": []
+    },
+    "lib/media/the-scout.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 197599,
+      "exportedPath": "lib/media/the-scout.jpg",
+      "dependencies": []
+    },
+    "lib/media/oig.ewpjtz9u.jpg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 166643,
+      "exportedPath": "lib/media/oig.ewpjtz9u.jpg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 195708,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 17155,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 25819,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1729203517865,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
